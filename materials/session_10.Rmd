@@ -1,6 +1,5 @@
-# Session 10: Informative Priors
+# Session 10: Missing Data
 
 
-
-```{r, child = 'sections/informative-priors.Rmd'}
+```{r, child = 'sections/missing-data.Rmd'}
 ```

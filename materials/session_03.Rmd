@@ -1,1 +1,7 @@
-# Session 3: Collaborative Synthesis
+# Session 3: Web based data archival
+
+```{r, child = 'sections/metadata-data-best-practices-intro.Rmd'}
+```
+
+```{r, child = 'sections/metaata-knb-data-documentation-hands-on.Rmd'}
+```

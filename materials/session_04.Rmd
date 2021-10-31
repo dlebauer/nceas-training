@@ -1,4 +1,7 @@
-# Session 4: Introduction to Bayesian modeling
+# Session 4: Programmatic metadata and data access
 
-```{r, child = 'sections/bayesian-intro.Rmd'}
+```{r, child = 'sections/data-identifiers-contentid.Rmd'}
+```
+
+```{r, child = 'sections/metadata-programming-publishing.Rmd'}
 ```

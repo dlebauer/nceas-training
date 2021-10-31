@@ -1,5 +1,5 @@
-# Session 6: Implementing Bayesian models
+# Session 6: Shiny
 
-```{r, child = 'sections/bayesian-implementation.Rmd'}
+```{r, child = 'sections/visualisation-shiny.Rmd'}
 ```
 
